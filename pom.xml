@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>maven-cicd-project</groupId>
-  <artifactId>cicd-for-webapp</artifactId>
+  <artifactId>cicd-for-webapp1</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>cicd-for-webapp Maven Webapp</name>
+  <name>cicd-for-webapp1 Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -29,7 +29,7 @@
   </dependencies>
 
   <build>
-    <finalName>cicd-for-webapp</finalName>
+    <finalName>cicd-for-webapp1</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
